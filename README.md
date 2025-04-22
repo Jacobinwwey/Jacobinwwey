@@ -3,7 +3,7 @@
 
 🎓 Ph.D. in Polymer Physics | Ultra-stable glass and photoresist research   
 
-🧠 Passionate about Mysterious and wonderful scientific research, interesting applications of LLMs, and open-source work dedicated to enabling all to step into the halls of desired learning
+🧠 Passionate about **Mysterious** and **wonderful** scientific research, **interesting** applications of LLMs, and open-source work dedicated to enabling all to step into the halls of **desired learning**
 
 ---
 
