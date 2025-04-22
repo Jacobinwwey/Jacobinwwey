@@ -17,7 +17,7 @@
 
 - Email: `jacob.hxx.cn@outlook.com`  
 - GitHub: [@Jacobinwwey](https://github.com/Jacobinwwey)
-- bilibili: Scripts and tutorials(https://space.bilibili.com/11159838/upload/video)
+- bilibili: [@Scripts and tutorials](https://space.bilibili.com/11159838/upload/video)
 
 ---
 
