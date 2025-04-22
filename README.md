@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Jacobinwwey
 
 
-🎓 Ph.D. in Polymer Physics | Super-stable glass and photoresist research   
+🎓 Ph.D. in Polymer Physics | Ultra-stable glass and photoresist research   
 
 🧠 Passionate about Mysterious and wonderful scientific research, interesting applications of LLMs, and open-source work dedicated to enabling all to step into the halls of desired learning
 
