@@ -16,7 +16,7 @@
 </div>
 <div align="center">  
   <img width="58%" height="195px" src="https://github-readme-stats-sable-five-74.vercel.app/api?username=Jacobinwwey&show_icons=true&count_private=true&theme=solarized-light" alt="Jacobinwwey's GitHub stats"/> 
-  <img width="42%" height="195px" src="https://github-readme-stats-sable-five-74.vercel.app/api/top-langs/?username=Jacobinwwey&layout=compact&theme=solarized-light" 
+  <img width="41%" height="195px" src="https://github-readme-stats-sable-five-74.vercel.app/api/top-langs/?username=Jacobinwwey&layout=compact&theme=solarized-light" 
 
 
 ---
