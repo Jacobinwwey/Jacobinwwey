@@ -12,7 +12,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jacobinwwey&theme=vue" width="91%" height="auto" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jacobinwwey&theme=nord_bright" width="92%" height="auto" />
 </div>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sable-five-74.vercel.app/api?username=Jacobinwwey&show_icons=true&count_private=true&theme=solarized-light" alt="Jacobinwwey's GitHub stats"/> 
