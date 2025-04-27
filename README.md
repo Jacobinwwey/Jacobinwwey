@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=abc7f5&height=120&section=header"/>
 
 # 👋 Hi there, I'm Jacobinwwey
 
@@ -30,7 +30,7 @@
 ---
 
 Thanks for visiting! 😊
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=120&section=footer"/>
-/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=abc7f5&height=120&section=footer"/>
+
 </div>
 <br>
