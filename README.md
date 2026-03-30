@@ -23,23 +23,11 @@
 
 ## 📊 Project Metrics (Non-fork, Fair Counting)
 
-_Last updated: 2026-03-30 (UTC)_
-
-- Scope: **11 non-fork repositories**
-- Fair LOC (exclude dependencies/build artifacts): **159,434**
-- Raw LOC (before exclusions): **1,683,627**
-- Delta removed by fair rules: **1,524,193**
-- Active repos: **4 updated in 30 days**, **6 updated in 90 days**
-
-**Top repositories by fair LOC**
-- `NoteConnection`: 101,925
-- `obsidian-NotEMD`: 19,892
-- `astrbot_plugin_sharelife`: 14,626
-- `astrbot_plugin_onesync`: 9,552
-
-**Counting rules**
-- Excluded directories: `.git`, `node_modules`, `dist`, `build`, `out`, `coverage`, `.next`, `.nuxt`, `.turbo`, `.cache`, `target`, `vendor`, `third_party`, `external`, `deps`, `__pycache__`, `.venv`, `venv`, `bin`, `obj`
-- Excluded files: lockfiles, source maps (`*.map`), and minified bundles (`*.min.js`, `*.min.css`)
+<div align="center">
+  <img src="./assets/project-metrics-summary-card.svg" width="92%" alt="Project metrics summary card" />
+  <br/>
+  <img src="./assets/project-metrics-top-repos-card.svg" width="92%" alt="Top repositories by fair LOC card" />
+</div>
 
 ---
 
