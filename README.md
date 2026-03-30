@@ -21,8 +21,6 @@
 
 ---
 
-## 📊 Project Metrics (Non-fork, Fair Counting)
-
 <div align="center">
   <img src="./assets/project-metrics-top-repos-card.svg" width="92%" alt="30-day repository activity card" />
 </div>
