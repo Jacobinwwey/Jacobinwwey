@@ -57,32 +57,35 @@
   <rect x="840" y="44" width="320" height="10" rx="5" fill="url(#barChange)"/>
   <rect x="840" y="58" width="320" height="8" rx="4" fill="#d1fae5"/>
   <rect x="840" y="58" width="320" height="8" rx="4" fill="url(#barCommit)"/>
-  <text x="1160" y="62" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">178,195 | 103</text>
+  <text x="1160" y="52" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">178,195</text>
+  <text x="1160" y="66" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">103</text>
 
   <text x="636" y="132" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">astrbot_plugin_sharelife</text>
   <rect x="840" y="116" width="320" height="10" rx="5" fill="#dbeafe"/>
   <rect x="840" y="116" width="42" height="10" rx="5" fill="url(#barChange)"/>
   <rect x="840" y="130" width="320" height="8" rx="4" fill="#d1fae5"/>
   <rect x="840" y="130" width="180" height="8" rx="4" fill="url(#barCommit)"/>
-  <text x="1160" y="134" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">23,585 | 58</text>
+  <text x="1160" y="124" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">23,585</text>
+  <text x="1160" y="138" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">58</text>
 
   <text x="636" y="204" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">obsidian-NotEMD</text>
   <rect x="840" y="188" width="320" height="10" rx="5" fill="#dbeafe"/>
   <rect x="840" y="188" width="23" height="10" rx="5" fill="url(#barChange)"/>
   <rect x="840" y="202" width="320" height="8" rx="4" fill="#d1fae5"/>
   <rect x="840" y="202" width="90" height="8" rx="4" fill="url(#barCommit)"/>
-  <text x="1160" y="206" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">12,969 | 29</text>
+  <text x="1160" y="196" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">12,969</text>
+  <text x="1160" y="210" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">29</text>
 
   <text x="636" y="276" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">astrbot_plugin_onesync</text>
   <rect x="840" y="260" width="320" height="10" rx="5" fill="#dbeafe"/>
   <rect x="840" y="260" width="22" height="10" rx="5" fill="url(#barChange)"/>
   <rect x="840" y="274" width="320" height="8" rx="4" fill="#d1fae5"/>
   <rect x="840" y="274" width="68" height="8" rx="4" fill="url(#barCommit)"/>
-  <text x="1160" y="278" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">12,343 | 22</text>
+  <text x="1160" y="268" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">12,343</text>
+  <text x="1160" y="282" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">22</text>
 
   <circle cx="840" cy="332" r="5" fill="url(#barChange)"/>
   <text x="852" y="336" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="12">changed lines (30d)</text>
   <circle cx="840" cy="352" r="5" fill="url(#barCommit)"/>
   <text x="852" y="356" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="12">commits (30d)</text>
-  <text x="840" y="378" fill="#94a3b8" font-family="Segoe UI, Arial, sans-serif" font-size="12">value format: changed | commits</text>
 </svg>
