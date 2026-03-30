@@ -1,6 +1,6 @@
-<svg width="1200" height="420" viewBox="0 0 1200 420" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Repository Activity Window - 30 Days</title>
-  <desc id="desc">Non-fork repository 30-day activity excluding profile repository updates: commit count and code changes comparison</desc>
+<svg width="1200" height="520" viewBox="0 0 1200 520" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Project Metrics Card</title>
+  <desc id="desc">Left column shows fair code metrics, right column shows 30-day activity metrics excluding profile README repository.</desc>
   <defs>
     <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#f8fafc" />
@@ -12,47 +12,85 @@
     </linearGradient>
   </defs>
 
-  <rect x="8" y="8" width="1184" height="404" rx="20" fill="url(#bg2)" stroke="#c7d8f8" stroke-width="2"/>
+  <rect x="8" y="8" width="1184" height="504" rx="20" fill="url(#bg2)" stroke="#c7d8f8" stroke-width="2"/>
+  <rect x="8" y="8" width="1184" height="14" rx="20" fill="url(#bar)"/>
+
   <text x="36" y="50" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
-    Activity Window (30 days) - Non-fork Repositories
+    Project Metrics (Non-fork Repositories)
   </text>
   <text x="36" y="74" fill="#475569" font-family="Segoe UI, Arial, sans-serif" font-size="16">
-    Snapshot: 2026-03-30 UTC | Excluding profile repo (Jacobinwwey) updates
+    Snapshot: 2026-03-30 UTC | Left: fair code statistics, Right: 30-day update statistics
   </text>
 
-  <rect x="30" y="92" width="360" height="78" rx="14" fill="#ffffff" stroke="#dbe7fb"/>
-  <text x="50" y="122" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">Updated Repositories (30d)</text>
-  <text x="50" y="152" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">4</text>
+  <rect x="30" y="96" width="560" height="394" rx="16" fill="#ffffff" stroke="#dbe7fb"/>
+  <rect x="610" y="96" width="560" height="394" rx="16" fill="#ffffff" stroke="#dbe7fb"/>
 
-  <rect x="420" y="92" width="360" height="78" rx="14" fill="#ffffff" stroke="#dbe7fb"/>
-  <text x="440" y="122" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">Total Commits (30d)</text>
-  <text x="440" y="152" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">212</text>
+  <text x="52" y="132" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
+    Fair Code Metrics
+  </text>
+  <text x="52" y="156" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    Scope: 11 non-fork repositories, fair counting rules applied
+  </text>
 
-  <rect x="810" y="92" width="360" height="78" rx="14" fill="#ffffff" stroke="#dbe7fb"/>
-  <text x="830" y="122" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">Total Changed Lines (30d)</text>
-  <text x="830" y="152" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">227,092</text>
+  <rect x="52" y="176" width="246" height="92" rx="14" fill="#f8fbff" stroke="#dbe7fb"/>
+  <text x="70" y="207" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">Fair LOC</text>
+  <text x="70" y="244" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">159,434</text>
 
-  <text x="40" y="212" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">1. NoteConnection</text>
-  <rect x="320" y="192" width="760" height="24" rx="12" fill="#dbeafe"/>
-  <rect x="320" y="192" width="760" height="24" rx="12" fill="url(#bar)"/>
-  <text x="1098" y="209" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">103 commits | 178,195 changed</text>
+  <rect x="318" y="176" width="246" height="92" rx="14" fill="#f8fbff" stroke="#dbe7fb"/>
+  <text x="336" y="207" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">Raw LOC</text>
+  <text x="336" y="244" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">1,683,627</text>
 
-  <text x="40" y="260" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">2. astrbot_plugin_sharelife</text>
-  <rect x="320" y="240" width="760" height="24" rx="12" fill="#dbeafe"/>
-  <rect x="320" y="240" width="101" height="24" rx="12" fill="url(#bar)"/>
-  <text x="1098" y="257" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">58 commits | 23,585 changed</text>
+  <rect x="52" y="286" width="512" height="92" rx="14" fill="#f8fbff" stroke="#dbe7fb"/>
+  <text x="70" y="317" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">Removed by fair rules</text>
+  <text x="70" y="354" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="34" font-weight="700">1,524,193</text>
 
-  <text x="40" y="308" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">3. obsidian-NotEMD</text>
-  <rect x="320" y="288" width="760" height="24" rx="12" fill="#dbeafe"/>
-  <rect x="320" y="288" width="55" height="24" rx="12" fill="url(#bar)"/>
-  <text x="1098" y="305" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">29 commits | 12,969 changed</text>
+  <text x="52" y="406" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    Fair rules: exclude dependency/build dirs (node_modules, dist, build, target, etc.)
+  </text>
+  <text x="52" y="430" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    and generated files (lockfiles, *.map, *.min.js, *.min.css)
+  </text>
 
-  <text x="40" y="356" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600">4. astrbot_plugin_onesync</text>
-  <rect x="320" y="336" width="760" height="24" rx="12" fill="#dbeafe"/>
-  <rect x="320" y="336" width="52" height="24" rx="12" fill="url(#bar)"/>
-  <text x="1098" y="353" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">22 commits | 12,343 changed</text>
+  <text x="632" y="132" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">
+    Activity Metrics (30 days)
+  </text>
+  <text x="632" y="156" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">
+    Excluding profile README repository (Jacobinwwey)
+  </text>
 
-  <text x="40" y="394" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="14">
-    Bar scale: changed lines relative to the most changed repository in the last 30 days
+  <rect x="632" y="176" width="170" height="82" rx="12" fill="#f8fbff" stroke="#dbe7fb"/>
+  <text x="648" y="205" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="13">Updated repos</text>
+  <text x="648" y="238" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">4</text>
+
+  <rect x="817" y="176" width="170" height="82" rx="12" fill="#f8fbff" stroke="#dbe7fb"/>
+  <text x="833" y="205" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="13">Commits</text>
+  <text x="833" y="238" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700">212</text>
+
+  <rect x="1002" y="176" width="150" height="82" rx="12" fill="#f8fbff" stroke="#dbe7fb"/>
+  <text x="1018" y="205" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="13">Changed lines</text>
+  <text x="1018" y="238" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">227,092</text>
+
+  <text x="632" y="286" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">1. NoteConnection</text>
+  <rect x="826" y="268" width="326" height="20" rx="10" fill="#dbeafe"/>
+  <rect x="826" y="268" width="326" height="20" rx="10" fill="url(#bar)"/>
+  <text x="1152" y="285" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">103 commits | 178,195 changed</text>
+
+  <text x="632" y="324" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">2. astrbot_plugin_sharelife</text>
+  <rect x="826" y="306" width="326" height="20" rx="10" fill="#dbeafe"/>
+  <rect x="826" y="306" width="43" height="20" rx="10" fill="url(#bar)"/>
+  <text x="1152" y="323" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">58 commits | 23,585 changed</text>
+
+  <text x="632" y="362" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">3. obsidian-NotEMD</text>
+  <rect x="826" y="344" width="326" height="20" rx="10" fill="#dbeafe"/>
+  <rect x="826" y="344" width="24" height="20" rx="10" fill="url(#bar)"/>
+  <text x="1152" y="361" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">29 commits | 12,969 changed</text>
+
+  <text x="632" y="400" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">4. astrbot_plugin_onesync</text>
+  <rect x="826" y="382" width="326" height="20" rx="10" fill="#dbeafe"/>
+  <rect x="826" y="382" width="23" height="20" rx="10" fill="url(#bar)"/>
+  <text x="1152" y="399" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">22 commits | 12,343 changed</text>
+
+  <text x="632" y="440" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="13">
+    Right-side bars are scaled by changed lines relative to NoteConnection (max in 30d)
   </text>
 </svg>
