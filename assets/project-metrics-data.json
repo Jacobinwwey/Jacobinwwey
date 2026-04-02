@@ -1,31 +1,31 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-04-02T11:10:44Z",
+  "generated_at_utc": "2026-04-02T11:27:46Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
     "updated_repos": 4,
-    "commits": 311,
-    "changed_lines": 262970
+    "commits": 313,
+    "changed_lines": 263535
   },
   "top_loc_repos": [
     {
       "name": "NoteConnection",
-      "value": 0
+      "value": 127418
     },
     {
-      "name": "obsidian-ai-translator",
-      "value": 0
-    },
-    {
-      "name": "Intelligent-Screenshot-Splitter",
-      "value": 0
+      "name": "astrbot_plugin_sharelife",
+      "value": 47683
     },
     {
       "name": "obsidian-NotEMD",
-      "value": 0
+      "value": 27109
+    },
+    {
+      "name": "astrbot_plugin_onesync",
+      "value": 9552
     }
   ],
   "top_activity_repos": [
@@ -36,8 +36,8 @@
     },
     {
       "name": "astrbot_plugin_sharelife",
-      "commits": 125,
-      "changed_lines": 69234
+      "commits": 127,
+      "changed_lines": 69799
     },
     {
       "name": "obsidian-NotEMD",
