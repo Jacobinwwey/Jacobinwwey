@@ -284,13 +284,14 @@ def run_cloc(repo_dir: Path) -> int:
         "--vcs=git",
         "--exclude-dir",
         "node_modules,dist,build,.next,target,vendor,coverage,.venv,venv,__pycache__,.mypy_cache",
-        str(repo_dir),
+        ".",
     ]
     proc = subprocess.run(
         cmd,
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
         text=True,
+        cwd=str(repo_dir),
         timeout=600,
         check=False,
     )
@@ -305,7 +306,11 @@ def run_cloc(repo_dir: Path) -> int:
         parsed = json.loads(out[start:])
     except json.JSONDecodeError:
         return 0
-    return int((parsed.get("SUM") or {}).get("code", 0))
+    summary = parsed.get("SUM") or {}
+    if not summary:
+        print(f"[warn] cloc returned empty summary for {repo_dir.name}")
+        return 0
+    return int(summary.get("code", 0))
 
 
 def fetch_repo_loc(
