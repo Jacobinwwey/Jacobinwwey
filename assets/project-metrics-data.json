@@ -1,27 +1,27 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-04-10T05:12:37Z",
+  "generated_at_utc": "2026-04-11T04:33:53Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
     "updated_repos": 5,
-    "commits": 284,
-    "changed_lines": 309749
+    "commits": 321,
+    "changed_lines": 324050
   },
   "top_loc_repos": [
     {
       "name": "astrbot_plugin_sharelife",
-      "value": 91537
+      "value": 96083
+    },
+    {
+      "name": "obsidian-NotEMD",
+      "value": 33359
     },
     {
       "name": "astrbot_plugin_onesync",
       "value": 32177
-    },
-    {
-      "name": "obsidian-NotEMD",
-      "value": 30687
     },
     {
       "name": "shareclaw",
@@ -31,13 +31,13 @@
   "top_activity_repos": [
     {
       "name": "astrbot_plugin_sharelife",
-      "commits": 43,
-      "changed_lines": 128412
+      "commits": 82,
+      "changed_lines": 137997
     },
     {
       "name": "NoteConnection",
-      "commits": 108,
-      "changed_lines": 107135
+      "commits": 101,
+      "changed_lines": 92165
     },
     {
       "name": "astrbot_plugin_onesync",
@@ -46,8 +46,8 @@
     },
     {
       "name": "obsidian-NotEMD",
-      "commits": 40,
-      "changed_lines": 18379
+      "commits": 45,
+      "changed_lines": 38065
     }
   ]
 }
