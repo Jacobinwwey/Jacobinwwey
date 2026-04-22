@@ -1,14 +1,14 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-04-21T05:14:36Z",
+  "generated_at_utc": "2026-04-22T05:12:57Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
     "updated_repos": 7,
-    "commits": 605,
-    "changed_lines": 549271
+    "commits": 694,
+    "changed_lines": 591477
   },
   "top_loc_repos": [
     {
@@ -20,12 +20,12 @@
       "value": 70470
     },
     {
-      "name": "astrbot_plugin_onesync",
-      "value": 59405
+      "name": "portmanager",
+      "value": 62211
     },
     {
-      "name": "portmanager",
-      "value": 35835
+      "name": "astrbot_plugin_onesync",
+      "value": 59405
     }
   ],
   "top_activity_repos": [
@@ -41,13 +41,13 @@
     },
     {
       "name": "NoteConnection",
-      "commits": 166,
-      "changed_lines": 93584
+      "commits": 204,
+      "changed_lines": 97374
     },
     {
-      "name": "astrbot_plugin_onesync",
-      "commits": 116,
-      "changed_lines": 72575
+      "name": "portmanager",
+      "commits": 119,
+      "changed_lines": 92066
     }
   ]
 }
