@@ -31,6 +31,7 @@
 
 - Email: `jacob.hxx.cn@outlook.com`  
 - GitHub: [@Jacobinwwey](https://github.com/Jacobinwwey)
+- Sponsor: [☕️ Buy Me a Coffee on Ko-fi](https://ko-fi.com/jacobinwwey)
 - bilibili: [@Scripts and tutorials](https://space.bilibili.com/11159838/upload/video)
 
 ---
