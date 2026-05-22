@@ -1,14 +1,14 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-05-21T06:34:39Z",
+  "generated_at_utc": "2026-05-22T06:32:24Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
     "updated_repos": 6,
-    "commits": 405,
-    "changed_lines": 475326
+    "commits": 355,
+    "changed_lines": 436959
   },
   "top_loc_repos": [
     {
@@ -41,8 +41,8 @@
     },
     {
       "name": "portmanager",
-      "commits": 55,
-      "changed_lines": 41274
+      "commits": 5,
+      "changed_lines": 2907
     },
     {
       "name": "frontend-law-auditor",
