@@ -51,7 +51,7 @@
   <rect x="840" y="44" width="320" height="8" rx="4" fill="#dbeafe"/>
   <rect x="840" y="44" width="320" height="8" rx="4" fill="url(#barChange)"/>
   <rect x="840" y="56" width="320" height="8" rx="4" fill="#d1fae5"/>
-  <rect x="840" y="56" width="260" height="8" rx="4" fill="url(#barCommit)"/>
+  <rect x="840" y="56" width="262" height="8" rx="4" fill="url(#barCommit)"/>
   <text x="1160" y="52" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">251,112</text>
   <text x="1160" y="64" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">140</text>
 
@@ -60,8 +60,8 @@
   <rect x="840" y="108" width="268" height="8" rx="4" fill="url(#barChange)"/>
   <rect x="840" y="120" width="320" height="8" rx="4" fill="#d1fae5"/>
   <rect x="840" y="120" width="320" height="8" rx="4" fill="url(#barCommit)"/>
-  <text x="1160" y="116" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">210,523</text>
-  <text x="1160" y="128" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">172</text>
+  <text x="1160" y="116" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">210,522</text>
+  <text x="1160" y="128" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">171</text>
 
   <text x="636" y="188" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">frontend-law-auditor</text>
   <rect x="840" y="172" width="320" height="8" rx="4" fill="#dbeafe"/>
