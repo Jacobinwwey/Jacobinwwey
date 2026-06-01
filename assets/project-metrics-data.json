@@ -1,16 +1,20 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-05-31T06:40:47Z",
+  "generated_at_utc": "2026-06-01T07:29:55Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
     "updated_repos": 6,
-    "commits": 327,
-    "changed_lines": 468325
+    "commits": 304,
+    "changed_lines": 399576
   },
   "top_loc_repos": [
+    {
+      "name": "NoteConnection",
+      "value": 240390
+    },
     {
       "name": "obsidian-NotEMD",
       "value": 119475
@@ -22,10 +26,6 @@
     {
       "name": "portmanager",
       "value": 64687
-    },
-    {
-      "name": "astrbot_plugin_onesync",
-      "value": 59405
     }
   ],
   "top_activity_repos": [
@@ -36,8 +36,8 @@
     },
     {
       "name": "obsidian-NotEMD",
-      "commits": 171,
-      "changed_lines": 210522
+      "commits": 148,
+      "changed_lines": 141773
     },
     {
       "name": "frontend-law-auditor",
