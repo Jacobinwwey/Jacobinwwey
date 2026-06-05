@@ -1,14 +1,14 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-06-04T07:07:09Z",
+  "generated_at_utc": "2026-06-05T06:49:53Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
     "updated_repos": 6,
-    "commits": 235,
-    "changed_lines": 294446
+    "commits": 190,
+    "changed_lines": 203259
   },
   "top_loc_repos": [
     {
@@ -31,13 +31,13 @@
   "top_activity_repos": [
     {
       "name": "NoteConnection",
-      "commits": 126,
-      "changed_lines": 220562
+      "commits": 105,
+      "changed_lines": 147878
     },
     {
       "name": "obsidian-NotEMD",
-      "commits": 93,
-      "changed_lines": 67193
+      "commits": 69,
+      "changed_lines": 48690
     },
     {
       "name": "frontend-law-auditor",
