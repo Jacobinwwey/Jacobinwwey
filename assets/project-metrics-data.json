@@ -1,14 +1,14 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-06-09T06:32:55Z",
+  "generated_at_utc": "2026-06-10T06:49:00Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
     "updated_repos": 3,
-    "commits": 124,
-    "changed_lines": 191017
+    "commits": 151,
+    "changed_lines": 97918
   },
   "top_loc_repos": [
     {
@@ -17,7 +17,7 @@
     },
     {
       "name": "obsidian-NotEMD",
-      "value": 121283
+      "value": 124527
     },
     {
       "name": "astrbot_plugin_sharelife",
@@ -30,14 +30,14 @@
   ],
   "top_activity_repos": [
     {
-      "name": "NoteConnection",
-      "commits": 56,
-      "changed_lines": 144584
+      "name": "obsidian-NotEMD",
+      "commits": 95,
+      "changed_lines": 49901
     },
     {
-      "name": "obsidian-NotEMD",
-      "commits": 67,
-      "changed_lines": 46018
+      "name": "NoteConnection",
+      "commits": 55,
+      "changed_lines": 47602
     },
     {
       "name": "frontend-law-auditor",
