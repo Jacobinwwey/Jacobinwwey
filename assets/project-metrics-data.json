@@ -1,19 +1,19 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-07-11T05:26:23Z",
+  "generated_at_utc": "2026-07-12T05:42:19Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
     "updated_repos": 3,
-    "commits": 353,
-    "changed_lines": 382168
+    "commits": 366,
+    "changed_lines": 399706
   },
   "top_loc_repos": [
     {
       "name": "obsidian-NotEMD",
-      "value": 317142
+      "value": 311604
     },
     {
       "name": "NoteConnection",
@@ -31,13 +31,13 @@
   "top_activity_repos": [
     {
       "name": "obsidian-NotEMD",
-      "commits": 204,
-      "changed_lines": 299334
+      "commits": 218,
+      "changed_lines": 317051
     },
     {
       "name": "NoteConnection",
-      "commits": 144,
-      "changed_lines": 77782
+      "commits": 143,
+      "changed_lines": 77603
     },
     {
       "name": "vite-plugin-singlefile-offline",
