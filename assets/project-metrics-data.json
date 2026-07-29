@@ -1,14 +1,14 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-07-28T05:31:21Z",
+  "generated_at_utc": "2026-07-29T05:36:51Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
-    "updated_repos": 3,
-    "commits": 228,
-    "changed_lines": 280150
+    "updated_repos": 2,
+    "commits": 223,
+    "changed_lines": 275098
   },
   "top_loc_repos": [
     {
@@ -38,11 +38,6 @@
       "name": "NoteConnection",
       "commits": 108,
       "changed_lines": 44377
-    },
-    {
-      "name": "vite-plugin-singlefile-offline",
-      "commits": 5,
-      "changed_lines": 5052
     }
   ]
 }
