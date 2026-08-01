@@ -1,14 +1,14 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-07-31T05:50:21Z",
+  "generated_at_utc": "2026-08-01T05:41:03Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
     "updated_repos": 2,
-    "commits": 223,
-    "changed_lines": 275098
+    "commits": 222,
+    "changed_lines": 274628
   },
   "top_loc_repos": [
     {
@@ -31,8 +31,8 @@
   "top_activity_repos": [
     {
       "name": "obsidian-NotEMD",
-      "commits": 115,
-      "changed_lines": 230721
+      "commits": 114,
+      "changed_lines": 230251
     },
     {
       "name": "NoteConnection",
