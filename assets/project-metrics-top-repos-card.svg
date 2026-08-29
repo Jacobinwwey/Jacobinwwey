@@ -29,20 +29,20 @@
   <rect x="240" y="46" width="320" height="16" rx="8" fill="url(#barCode)"/>
   <text x="560" y="58" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">358,121</text>
 
-  <text x="36" y="124" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">NoteConnection</text>
+  <text x="36" y="124" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">astrbot_plugin_sharelife</text>
   <rect x="240" y="110" width="320" height="16" rx="8" fill="#dbeafe"/>
-  <rect x="240" y="110" width="294" height="16" rx="8" fill="url(#barCode)"/>
-  <text x="560" y="122" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">328,666</text>
+  <rect x="240" y="110" width="87" height="16" rx="8" fill="url(#barCode)"/>
+  <text x="560" y="122" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">97,402</text>
 
-  <text x="36" y="188" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">astrbot_plugin_sharelife</text>
+  <text x="36" y="188" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">portmanager</text>
   <rect x="240" y="174" width="320" height="16" rx="8" fill="#dbeafe"/>
-  <rect x="240" y="174" width="87" height="16" rx="8" fill="url(#barCode)"/>
-  <text x="560" y="186" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">97,402</text>
+  <rect x="240" y="174" width="58" height="16" rx="8" fill="url(#barCode)"/>
+  <text x="560" y="186" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">64,687</text>
 
-  <text x="36" y="252" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">portmanager</text>
+  <text x="36" y="252" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">astrbot_plugin_onesync</text>
   <rect x="240" y="238" width="320" height="16" rx="8" fill="#dbeafe"/>
-  <rect x="240" y="238" width="58" height="16" rx="8" fill="url(#barCode)"/>
-  <text x="560" y="250" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">64,687</text>
+  <rect x="240" y="238" width="53" height="16" rx="8" fill="url(#barCode)"/>
+  <text x="560" y="250" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">59,405</text>
 
   <text x="240" y="328" fill="#64748b" font-family="Segoe UI, Arial, sans-serif" font-size="12">fair LOC</text>
   <circle cx="230" cy="324" r="5" fill="url(#barCode)"/>
