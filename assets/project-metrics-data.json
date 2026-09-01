@@ -1,6 +1,6 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-08-31T08:50:53Z",
+  "generated_at_utc": "2026-09-01T07:57:04Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
@@ -16,16 +16,16 @@
       "value": 368169
     },
     {
+      "name": "NoteConnection",
+      "value": 328666
+    },
+    {
       "name": "astrbot_plugin_sharelife",
       "value": 97402
     },
     {
       "name": "portmanager",
       "value": 64687
-    },
-    {
-      "name": "astrbot_plugin_onesync",
-      "value": 59405
     }
   ],
   "top_activity_repos": [
