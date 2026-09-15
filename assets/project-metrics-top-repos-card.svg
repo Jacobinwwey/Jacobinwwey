@@ -57,19 +57,19 @@
 
   <text x="636" y="124" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">obsidian-NotEMD</text>
   <rect x="840" y="108" width="320" height="8" rx="4" fill="#dbeafe"/>
-  <rect x="840" y="108" width="84" height="8" rx="4" fill="url(#barChange)"/>
+  <rect x="840" y="108" width="77" height="8" rx="4" fill="url(#barChange)"/>
   <rect x="840" y="120" width="320" height="8" rx="4" fill="#d1fae5"/>
-  <rect x="840" y="120" width="202" height="8" rx="4" fill="url(#barCommit)"/>
-  <text x="1160" y="116" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">81,590</text>
-  <text x="1160" y="128" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">58</text>
+  <rect x="840" y="120" width="195" height="8" rx="4" fill="url(#barCommit)"/>
+  <text x="1160" y="116" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">74,722</text>
+  <text x="1160" y="128" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">56</text>
 
   <text x="636" y="188" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">dsh-NotEMD</text>
   <rect x="840" y="172" width="320" height="8" rx="4" fill="#dbeafe"/>
-  <rect x="840" y="172" width="33" height="8" rx="4" fill="url(#barChange)"/>
+  <rect x="840" y="172" width="16" height="8" rx="4" fill="url(#barChange)"/>
   <rect x="840" y="184" width="320" height="8" rx="4" fill="#d1fae5"/>
-  <rect x="840" y="184" width="122" height="8" rx="4" fill="url(#barCommit)"/>
-  <text x="1160" y="180" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">32,507</text>
-  <text x="1160" y="192" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">35</text>
+  <rect x="840" y="184" width="90" height="8" rx="4" fill="url(#barCommit)"/>
+  <text x="1160" y="180" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">15,781</text>
+  <text x="1160" y="192" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">26</text>
 
   <text x="636" y="252" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">—</text>
   <rect x="840" y="236" width="320" height="8" rx="4" fill="#dbeafe"/>
