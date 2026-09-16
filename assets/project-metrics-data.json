@@ -1,14 +1,14 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-09-15T07:58:58Z",
+  "generated_at_utc": "2026-09-16T07:51:18Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
     "updated_repos": 3,
-    "commits": 174,
-    "changed_lines": 402754
+    "commits": 160,
+    "changed_lines": 395483
   },
   "top_loc_repos": [
     {
@@ -31,18 +31,18 @@
   "top_activity_repos": [
     {
       "name": "NoteConnection",
-      "commits": 92,
-      "changed_lines": 312251
+      "commits": 83,
+      "changed_lines": 309826
     },
     {
       "name": "obsidian-NotEMD",
-      "commits": 56,
-      "changed_lines": 74722
+      "commits": 55,
+      "changed_lines": 73850
     },
     {
       "name": "dsh-NotEMD",
-      "commits": 26,
-      "changed_lines": 15781
+      "commits": 22,
+      "changed_lines": 11807
     }
   ]
 }
