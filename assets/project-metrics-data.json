@@ -1,14 +1,14 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-09-27T08:29:29Z",
+  "generated_at_utc": "2026-09-28T08:54:17Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
     "updated_repos": 3,
-    "commits": 85,
-    "changed_lines": 340311
+    "commits": 83,
+    "changed_lines": 339348
   },
   "top_loc_repos": [
     {
@@ -36,8 +36,8 @@
     },
     {
       "name": "obsidian-NotEMD",
-      "commits": 19,
-      "changed_lines": 50237
+      "commits": 17,
+      "changed_lines": 49274
     },
     {
       "name": "dsh-NotEMD",
