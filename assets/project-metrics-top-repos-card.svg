@@ -52,30 +52,30 @@
   <rect x="840" y="44" width="320" height="8" rx="4" fill="url(#barChange)"/>
   <rect x="840" y="56" width="320" height="8" rx="4" fill="#d1fae5"/>
   <rect x="840" y="56" width="320" height="8" rx="4" fill="url(#barCommit)"/>
-  <text x="1160" y="52" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">240,244</text>
-  <text x="1160" y="64" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">29</text>
+  <text x="1160" y="52" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">38,286</text>
+  <text x="1160" y="64" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">26</text>
 
   <text x="636" y="124" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">NoteConnection</text>
   <rect x="840" y="108" width="320" height="8" rx="4" fill="#dbeafe"/>
-  <rect x="840" y="108" width="20" height="8" rx="4" fill="url(#barChange)"/>
+  <rect x="840" y="108" width="122" height="8" rx="4" fill="url(#barChange)"/>
   <rect x="840" y="120" width="320" height="8" rx="4" fill="#d1fae5"/>
-  <rect x="840" y="120" width="232" height="8" rx="4" fill="url(#barCommit)"/>
-  <text x="1160" y="116" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">14,899</text>
-  <text x="1160" y="128" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">21</text>
+  <rect x="840" y="120" width="197" height="8" rx="4" fill="url(#barCommit)"/>
+  <text x="1160" y="116" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">14,592</text>
+  <text x="1160" y="128" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">16</text>
 
   <text x="636" y="188" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">notemdpro</text>
   <rect x="840" y="172" width="320" height="8" rx="4" fill="#dbeafe"/>
-  <rect x="840" y="172" width="6" height="8" rx="4" fill="url(#barChange)"/>
+  <rect x="840" y="172" width="37" height="8" rx="4" fill="url(#barChange)"/>
   <rect x="840" y="184" width="320" height="8" rx="4" fill="#d1fae5"/>
-  <rect x="840" y="184" width="11" height="8" rx="4" fill="url(#barCommit)"/>
+  <rect x="840" y="184" width="12" height="8" rx="4" fill="url(#barCommit)"/>
   <text x="1160" y="180" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">4,439</text>
   <text x="1160" y="192" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">1</text>
 
   <text x="636" y="252" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">notemd-mcp</text>
   <rect x="840" y="236" width="320" height="8" rx="4" fill="#dbeafe"/>
-  <rect x="840" y="236" width="2" height="8" rx="4" fill="url(#barChange)"/>
+  <rect x="840" y="236" width="12" height="8" rx="4" fill="url(#barChange)"/>
   <rect x="840" y="248" width="320" height="8" rx="4" fill="#d1fae5"/>
-  <rect x="840" y="248" width="22" height="8" rx="4" fill="url(#barCommit)"/>
+  <rect x="840" y="248" width="25" height="8" rx="4" fill="url(#barCommit)"/>
   <text x="1160" y="244" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">1,426</text>
   <text x="1160" y="256" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">2</text>
 
