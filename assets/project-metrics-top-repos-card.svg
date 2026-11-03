@@ -31,8 +31,8 @@
 
   <text x="36" y="124" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">obsidian-NotEMD</text>
   <rect x="240" y="110" width="320" height="16" rx="8" fill="#dbeafe"/>
-  <rect x="240" y="110" width="221" height="16" rx="8" fill="url(#barCode)"/>
-  <text x="560" y="122" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">403,644</text>
+  <rect x="240" y="110" width="223" height="16" rx="8" fill="url(#barCode)"/>
+  <text x="560" y="122" text-anchor="end" fill="#0f172a" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="700">407,418</text>
 
   <text x="36" y="188" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">astrbot_plugin_sharelife</text>
   <rect x="240" y="174" width="320" height="16" rx="8" fill="#dbeafe"/>
@@ -52,12 +52,12 @@
   <rect x="840" y="44" width="320" height="8" rx="4" fill="url(#barChange)"/>
   <rect x="840" y="56" width="320" height="8" rx="4" fill="#d1fae5"/>
   <rect x="840" y="56" width="320" height="8" rx="4" fill="url(#barCommit)"/>
-  <text x="1160" y="52" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">33,683</text>
+  <text x="1160" y="52" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">30,175</text>
   <text x="1160" y="64" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">22</text>
 
   <text x="636" y="124" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">notemdpro</text>
   <rect x="840" y="108" width="320" height="8" rx="4" fill="#dbeafe"/>
-  <rect x="840" y="108" width="42" height="8" rx="4" fill="url(#barChange)"/>
+  <rect x="840" y="108" width="47" height="8" rx="4" fill="url(#barChange)"/>
   <rect x="840" y="120" width="320" height="8" rx="4" fill="#d1fae5"/>
   <rect x="840" y="120" width="15" height="8" rx="4" fill="url(#barCommit)"/>
   <text x="1160" y="116" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">4,439</text>
@@ -65,15 +65,15 @@
 
   <text x="636" y="188" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">NoteConnection</text>
   <rect x="840" y="172" width="320" height="8" rx="4" fill="#dbeafe"/>
-  <rect x="840" y="172" width="29" height="8" rx="4" fill="url(#barChange)"/>
+  <rect x="840" y="172" width="24" height="8" rx="4" fill="url(#barChange)"/>
   <rect x="840" y="184" width="320" height="8" rx="4" fill="#d1fae5"/>
-  <rect x="840" y="184" width="175" height="8" rx="4" fill="url(#barCommit)"/>
-  <text x="1160" y="180" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">3,030</text>
-  <text x="1160" y="192" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">12</text>
+  <rect x="840" y="184" width="131" height="8" rx="4" fill="url(#barCommit)"/>
+  <text x="1160" y="180" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">2,236</text>
+  <text x="1160" y="192" text-anchor="end" fill="#059669" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">9</text>
 
   <text x="636" y="252" fill="#334155" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">notemd-mcp</text>
   <rect x="840" y="236" width="320" height="8" rx="4" fill="#dbeafe"/>
-  <rect x="840" y="236" width="14" height="8" rx="4" fill="url(#barChange)"/>
+  <rect x="840" y="236" width="15" height="8" rx="4" fill="url(#barChange)"/>
   <rect x="840" y="248" width="320" height="8" rx="4" fill="#d1fae5"/>
   <rect x="840" y="248" width="29" height="8" rx="4" fill="url(#barCommit)"/>
   <text x="1160" y="244" text-anchor="end" fill="#1d4ed8" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">1,426</text>
