@@ -1,14 +1,14 @@
 {
   "username": "Jacobinwwey",
-  "generated_at_utc": "2026-11-04T09:42:57Z",
+  "generated_at_utc": "2026-11-05T09:45:46Z",
   "window_days": 30,
   "exclude_update_repos": [
     "Jacobinwwey"
   ],
   "totals_30d": {
-    "updated_repos": 3,
-    "commits": 16,
-    "changed_lines": 18064
+    "updated_repos": 1,
+    "commits": 13,
+    "changed_lines": 18007
   },
   "top_loc_repos": [
     {
@@ -33,16 +33,6 @@
       "name": "obsidian-NotEMD",
       "commits": 13,
       "changed_lines": 18007
-    },
-    {
-      "name": "notemd-mcp",
-      "commits": 1,
-      "changed_lines": 36
-    },
-    {
-      "name": "dsh-NotEMD",
-      "commits": 2,
-      "changed_lines": 21
     }
   ]
 }
